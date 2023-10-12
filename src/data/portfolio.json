@@ -1,0 +1,16 @@
+{
+	"portfolio": [
+		{
+		"cover": "/portfolio/Assassin-The First List.png",
+		"title": "GGWP",
+		"description": "react, JS, Css",
+		"URL": "https://akiyam.in/Impact/index.html"
+	},
+	{
+		"cover": "/portfolio/Snake Game.png",
+		"title": "GGWP",
+		"description": "react, JS, Css",
+		"URL": "https://github.com/VarunJain1402/snake-game/deployments/github-pages"
+	}
+]
+}
