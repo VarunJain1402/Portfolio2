@@ -1,6 +1,5 @@
-import React from 'react'
+import React , { useState, useEffect } from 'react'
 import Loader from 'react-loaders'
-import { useState, useEffect } from 'react'
 import AnimatedLetters from '../AnimatedLetters'
 import portfolioData from '../../data/portfolio.json'
 import './index.scss'
