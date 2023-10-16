@@ -86,7 +86,7 @@
 
         &:after {
             content: "";
-            background: linear-gradient(180deg, #ffd700, #000);
+            background: linear-gradient(180deg, #6c6c6a, #000);
             position: absolute;
             left: 0;
             right: 0;
@@ -124,8 +124,7 @@
         }
 
         .image-box {
-            height: 16.6%;
-            /* 200px*/
+            height:200px;
             max-width: calc(50% - 10px);
         }
     }

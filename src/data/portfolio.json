@@ -2,15 +2,23 @@
 	"portfolio": [
 		{
 		"cover": "/portfolio/Assassin-The First List.png",
-		"title": "GGWP",
-		"description": "react, JS, Css",
+		"title": "Assassin - The First List",
+		"description": "One of the projects I made in the internship.",
 		"URL": "https://akiyam.in/Impact/index.html"
 	},
 	{
 		"cover": "/portfolio/Snake Game.png",
-		"title": "GGWP",
-		"description": "react, JS, Css",
+		"title": "Snake Game",
+		"description": " VanillaJS, Css",
 		"URL": "https://github.com/VarunJain1402/snake-game/deployments/github-pages"
+	},
+
+	{
+		"cover": "/portfolio/Speech to text.png",
+		"title": "Speech to text converter",
+		"description": " ReactJs, Css",
+		"URL": "https://speech-to-text-g0mw.onrender.com/"
 	}
+
 ]
 }

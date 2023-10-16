@@ -40,7 +40,6 @@ import '../Layout/index.scss'
             I'm quitely confident, naturally curious and working on improving my
             skills and talent pool.
           </p>
-          {/* <p></p> */}
         </div>
         <div className='stage-cube-cont'>
           <div className='cubespinner'>
@@ -54,10 +53,10 @@ import '../Layout/index.scss'
               <FontAwesomeIcon icon={faHtml5} color='#F06529' />
             </div>
             <div className='face4'>
-              <FontAwesomeIcon icon={faJsSquare} color='' />
+              <FontAwesomeIcon icon={faJsSquare} color='#EFD81D' />
             </div>
             <div className='face5'>
-              <FontAwesomeIcon icon={faBootstrap} color='#EFD81D' />
+              <FontAwesomeIcon icon={faBootstrap} color='#DD0031' />
             </div>
             <div className='face6'>
               <FontAwesomeIcon icon={faReact} color='#5ED4F4' />
