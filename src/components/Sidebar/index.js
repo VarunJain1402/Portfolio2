@@ -12,18 +12,13 @@ import {
 } from '@fortawesome/free-solid-svg-icons'
 import React from 'react'
 import { useState } from 'react'
-import LogoS from '../../assets/images/logo-s.png'
-import LogoSub from '../../assets/images/logo_sub.png'
 
 const Sidebar = () => {
   const [showNav, setShowNav] = useState(false)
 
   return (
     <div className='nav-bar'>
-      <Link className='logo' to='/'>
-        <img src={LogoS} alt='logo' />
-        <img className='sub-logo' src={LogoSub} alt='Varun Jain' />
-      </Link>
+      
       <nav className={showNav ? 'mobile-show' : ''}>
         <NavLink  onClick={() => setShowNav(false)}exact='true' activeclassname='active' to='/'>
           <FontAwesomeIcon icon={faHome} color='#4d4d4e' />
@@ -38,7 +33,7 @@ const Sidebar = () => {
           <FontAwesomeIcon icon={faUser} color='#4d4d4e' />
         </NavLink>
         <NavLink
-        onClick={() => setShowNav(false)}
+        onClick={() =>{ return setShowNav(false)}}
           // exact='true'
           activeclassname='active'
           className='portfolio-link'
