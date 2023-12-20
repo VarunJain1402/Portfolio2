@@ -16,7 +16,8 @@ const Contact = () => {
     e.preventDefault()
     emailjs
       .sendForm(
-        'gmail',
+        // 'gmail',
+        'service_5wjhwed',//service Id
         'template_539b1yo', //template id
         refForm.current,
         'PdvjHuWK54EFoOO_h' //public key
