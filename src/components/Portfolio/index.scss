@@ -125,7 +125,15 @@
 
         .image-box {
             height:200px;
+            flex: 1 1 50%;
             max-width: calc(50% - 10px);
+
+            .title {
+                margin-bottom: 0;
+                margin-top: 0;
+                color: #fff;
+                font-size: 18px;
+            }
         }
     }
 }

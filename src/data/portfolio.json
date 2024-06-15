@@ -1,6 +1,12 @@
 {
 	"portfolio": [
 		{
+			"cover": "/portfolio/stream-sphare.png",
+			"title": "Stream Sphare",
+			"description": "A video streaming platform built with ReactJS",
+			"URL": "https://stream-sphare.onrender.com/"
+		},
+		{
 		"cover": "/portfolio/Assassin-The First List.png",
 		"title": "Assassin - The First List",
 		"description": "One of the projects I made in the internship.",
@@ -12,13 +18,11 @@
 		"description": " VanillaJS, Css",
 		"URL": "https://github.com/VarunJain1402/snake-game/deployments/github-pages"
 	},
-
 	{
 		"cover": "/portfolio/Speech to text.png",
 		"title": "Speech to text converter",
 		"description": " ReactJs, Css",
 		"URL": "https://speech-to-text-g0mw.onrender.com/"
-	}
-
+	}		
 ]
 }
