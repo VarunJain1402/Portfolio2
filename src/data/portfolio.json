@@ -15,12 +15,12 @@
 	{
 		"cover": "/portfolio/shopnex.png",
 		"title": "ShopNex",
-		"description": " ReactJs, TailwindCSS, Firebase",
+		"description": "ReactJs, TailwindCSS, Firebase",
 		"URL": "https://profile-fyi-test.onrender.com/"
 	},
 	{
-		"cover": "/portfolio/Speech to text.png",
-		"title": "Shubh Prints",
+		"cover": "/portfolio/Shubh Printers.png",
+		"title": "Shubh Printers",
 		"description": " HTML , Css, Bootstrap, EmailJs",
 		"URL": "https://shubh-prints.onrender.com/"
 	}		
