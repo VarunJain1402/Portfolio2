@@ -13,16 +13,16 @@
 		"URL": "https://akiyam.in/Impact/index.html"
 	},
 	{
-		"cover": "/portfolio/Snake Game.png",
-		"title": "Snake Game",
-		"description": " VanillaJS, Css",
-		"URL": "https://github.com/VarunJain1402/snake-game/deployments/github-pages"
+		"cover": "/portfolio/shopnex.png",
+		"title": "ShopNex",
+		"description": " ReactJs, TailwindCSS, Firebase",
+		"URL": "https://profile-fyi-test.onrender.com/"
 	},
 	{
 		"cover": "/portfolio/Speech to text.png",
-		"title": "Speech to text converter",
-		"description": " ReactJs, Css",
-		"URL": "https://speech-to-text-g0mw.onrender.com/"
+		"title": "Shubh Prints",
+		"description": " HTML , Css, Bootstrap, EmailJs",
+		"URL": "https://shubh-prints.onrender.com/"
 	}		
 ]
 }
